@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi, I'm Himanshika Singla
 
-<!--
-**himanshikasingla/himanshikasingla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Software Engineer @ Quick Heal | 3 YOE in C++/Windows Internals  
+📍 Pune, India | 💻 Building scalable systems, efficient code, and testable UIs  
+🎯 Focused on DSA + System Design | Preparing for high-impact backend roles
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- **Scalable File Sharing Platform** – Dropbox/GDrive Clone in Java/C++  
+- **Code Autocomplete System** – Trie + API Suggestion Engine  
+- **Windows Event Recorder** – Automates UI testing via Windows Hooks  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 [Resume](https://your-resume-link)  
+📫 [LinkedIn](https://www.linkedin.com/in/himanshika-singla-b35445202/) | [Email](himanshikasingla2001@gmail.com)
