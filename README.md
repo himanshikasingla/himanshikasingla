@@ -9,5 +9,5 @@
 - **Competitive Coding Judge** – DSA Evaluation Engine
 - **Windows Event Recorder** – Automates UI testing via Windows Hooks
   
-📄 [Resume](https://your-resume-link) | [Portfolio](https://himanshikasingla.github.io/Portfolio/)
+📄 [Resume](./Himanshika_Singla_Resume.pdf) | [Portfolio](https://himanshikasingla.github.io/Portfolio/)
 📫 [LinkedIn](https://www.linkedin.com/in/himanshika-singla-b35445202/) | [Email](himanshikasingla2001@gmail.com)
